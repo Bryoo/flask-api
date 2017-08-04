@@ -1,0 +1,6 @@
+.DS_Store
+.cache/
+.idea/
+__pycache__/
+db_repository/
+        flask-env/

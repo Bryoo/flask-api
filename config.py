@@ -18,6 +18,7 @@ class TestingConfig(Config):
 class DevelopmentConfig(Config):
     DEBUG = True
 
+
 app_configs = {
     "testing": TestingConfig,
     "development": DevelopmentConfig
