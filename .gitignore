@@ -7,3 +7,6 @@ tests/.cache/
 auth/__pycache__/
 tests/__pycache__/
 auth/__init__.py
+app/__pycache__/
+tests/__pycache__
+db_repository/
