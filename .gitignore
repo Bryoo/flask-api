@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.cache/
+.idea/
+__pycache__/
+flask-env/
+tests/.cache/
+auth/__pycache__/
+tests/__pycache__/
+auth/__init__.py
